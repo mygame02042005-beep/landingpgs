@@ -54,7 +54,7 @@ header::after {
 /* Hero Section */
 .hero {
   background: url('images/hero.jpg') no-repeat center center/cover;
-  color: #ffcc00;
+  color: #000000;
   padding: 4rem 0;
   text-align: center;
 }
